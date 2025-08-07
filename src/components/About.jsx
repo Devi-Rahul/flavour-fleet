@@ -1,3 +1,4 @@
+import restaurantimage from '/images/restaurantinterior.jpg';
 
 
 const About = () => {
