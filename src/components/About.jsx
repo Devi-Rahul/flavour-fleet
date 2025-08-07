@@ -19,7 +19,7 @@ const About = () => {
           <button className="btn-primary">Learn More</button>
         </div>
         <div className="about-image">
-          <img src="./images/restaurantinterior.jpg" alt="Restaurant interior" />
+          <img src="/images/restaurantinterior.jpg" alt="Restaurant interior" />
         </div>
       </div>
     </section>
