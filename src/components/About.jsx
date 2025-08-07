@@ -1,5 +1,5 @@
 import React from 'react';
-import restaurantImage from '../assets/restaurantinterior.jpg';
+import restaurantImage from '/images/restaurantinterior.jpg';
 const About = () => {
   return (
     <section className="about" id="about">
