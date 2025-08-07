@@ -1,5 +1,3 @@
-import restaurantimage from '/images/restaurantinterior.jpg';
-
 
 const About = () => {
   return (
@@ -20,7 +18,7 @@ const About = () => {
           <button className="btn-primary">Learn More</button>
         </div>
         <div className="about-image">
-          <img src="/images/restaurantinterior.jpg" alt="Restaurant interior" style={{ width: '100%', borderRadius: '10px' }} />
+          <img src="'../assets/restaurantinterior.jpg'" alt="Restaurant interior" style={{ width: '100%', borderRadius: '10px' }} />
         </div>
       </div>
     </section>
